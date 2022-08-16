@@ -1,0 +1,57 @@
+body {
+    color: white;
+    background: green;
+}
+ul {
+    display: flex;
+   justify-content: space-between ;
+   padding: 16px;
+}
+a {
+    color: greenyellow;
+    text-decoration: none;
+    font-weight: bold;
+}
+nav a:hover {
+    color: white;
+}
+li {
+    list-style-type: none;
+}
+.div-img {
+    text-align: center;
+}
+header img {
+    border-radius: 50%;
+    border: 5px solid greenyellow;
+    width: 150px;
+    height: 150px;
+}
+h1 {
+    color: greenyellow;
+}
+footer {
+    display: flex;
+    justify-content: center;
+}
+footer img {
+    width: 40px;
+    height: 40px;
+}
+footer a {
+    margin: 20px;
+    text-align: center;
+}
+footer p {
+    margin-top: 2px;
+    color: white;
+}
+.container {
+    padding: 0 50px;
+}
+
+@media screen and (max-width:480px) {
+    .container {
+        padding: 0 10px;
+    }
+}
