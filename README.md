@@ -15,4 +15,4 @@ Nesse projeto simples eu criei a biografia das cinco integrantes da girl band Sp
 
 ## 💛 Contato
 
-outerspaceguy@live.co.uk
+FilipeSantosEstudos1@gmail.com
